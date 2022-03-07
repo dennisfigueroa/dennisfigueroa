@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 🔭 I’m currently working on:
 - React Pokedex 
 - Creating custom ERC20 & ERC721. 
