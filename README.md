@@ -7,6 +7,7 @@
 🌱 I’m currently learning:
 - React 
 - Redux
+- Firebase Authentication
 - NodeJS
 - NextJS
 - Solidity
