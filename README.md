@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on:
-- React Pokedex 
+- Wordle Clone
 - Creating custom ERC20 & ERC721. 
 
 🌱 I’m currently learning:
