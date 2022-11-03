@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on:
-- ASP.NET REST APIs
+- .NET REST APIs
 - Creating custom ERC20 & ERC721. 
 
 🌱 I’m currently learning:
