@@ -7,10 +7,6 @@
 🌱 I’m currently learning:
 - React 
 -.NET 6 APIs
-- Redux
-- Firebase Authentication
-- NodeJS
-- NextJS
 - Solidity
 
 💬 Ask me about full-stack web development and blockchain development. 
