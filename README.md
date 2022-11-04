@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning:
 - React 
--.NET 6 APIs
+- NET 6 APIs
 - Solidity
 
 💬 Ask me about full-stack web development and blockchain development. 
